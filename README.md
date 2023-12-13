@@ -13,7 +13,7 @@ Text Emotion Detection is built with the Streamlit framework. This application u
 ## Screenshot
 <img src="https://github.com/ridhoabdi/portfolio/blob/main/images/readme-each-repository/text-emotion-detection/result.png" width="800" alt="Text Emotion Detection">
 
-## Access
+## Application Access
 Here are the [link](https://nlp-text-emotion-detection-v1.streamlit.app/) that can be used
 
 
